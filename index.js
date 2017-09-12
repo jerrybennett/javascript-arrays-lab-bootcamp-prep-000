@@ -1,4 +1,4 @@
-const app = [
+const kittens = [
   "Milo",
   "Otis",
   "Garfield"

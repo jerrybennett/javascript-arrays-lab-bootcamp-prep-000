@@ -21,3 +21,7 @@ destructivelyRemoveLastKitten() {
 destructivelyRemoveFirstKitten() {
 
 }
+
+appendKitten(name) {
+  
+}

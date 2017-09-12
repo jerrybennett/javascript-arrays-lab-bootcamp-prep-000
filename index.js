@@ -3,3 +3,8 @@ const kittens = [
   "Otis",
   "Garfield"
 ];
+
+function destructivelyAppendKitten(name) {
+  kittens.push(name);
+  return kittens;
+}

@@ -14,18 +14,26 @@ function destructivelyPrependKitten(name) {
   return kittens;
 }
 
-destructivelyRemoveLastKitten() {
+function destructivelyRemoveLastKitten() {
 
 }
 
-destructivelyRemoveFirstKitten() {
+function destructivelyRemoveFirstKitten() {
 
 }
 
-appendKitten(name) {
+function appendKitten(name) {
 
 }
 
-prependKitten(name)
+function prependKitten(name) {
 
-removeLastKitten()
+}
+
+function removeLastKitten() {
+
+}
+
+function removeFirstKitten() {
+
+}

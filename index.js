@@ -27,3 +27,5 @@ appendKitten(name) {
 }
 
 prependKitten(name)
+
+removeLastKitten()
